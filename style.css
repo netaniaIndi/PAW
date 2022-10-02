@@ -286,20 +286,10 @@
     .tombol-menu {
       display: flex;
     }
-    .blog .area {
+    .toplist {
       display: block;
     }
-    .blog div.area div {
-      width: 100%;
-    }
-    .blog .area .gambar {
-      border-radius: 5px 5px 0px 0px;
-      height: 200px;
-    }
-    .support {
-      display: block;
-    }
-    .support div {
+    .toplist div {
       width: 100%;
       padding-bottom: 30px;
     }
